@@ -1,2 +1,2 @@
 # sample
-*sample repositoryu
+* samample
